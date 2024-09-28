@@ -46,15 +46,19 @@ header img {
 }
 
 header h1 {
-    font-size: 2.1rem;
+    font-size: 2.5rem;
     margin-bottom: 10px;
-    font-weight: 300;
+    font-weight: 700; 
     color: #720455;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); 
 }
+
 
 p {
     color: #333;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    margin: 10px;
 }
 
 /* Styles button */
