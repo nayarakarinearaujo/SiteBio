@@ -46,10 +46,15 @@ header img {
 }
 
 header h1 {
-    font-size: 2rem;
+    font-size: 2.1rem;
     margin-bottom: 10px;
     font-weight: 300;
     color: #720455;
+}
+
+p {
+    color: #333;
+    font-size: 1.2rem;
 }
 
 /* Styles button */
