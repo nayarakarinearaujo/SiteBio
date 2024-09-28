@@ -84,6 +84,7 @@ section.button-links {
     font-size: 1.2rem;
     background-color: #f8f8f8;
     color: #720455;
+    cursor: pointer;
 }
 
 .button-links a button:hover {
